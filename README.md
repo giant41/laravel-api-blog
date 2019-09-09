@@ -3,6 +3,9 @@ Laravel 6.0 API that uses the API resources as backend and vue.js as front end.
 This is an API for an blog article CRUD app
 
 Quick Start
+#Database Name 
+laravel_api_blog
+
 # Install Dependencies
 composer install
 
