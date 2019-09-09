@@ -20,7 +20,8 @@ php artisan db:seed
 # If you get an error about an encryption key
 php artisan key:generate
 
-Endpoints
+
+# Endpoints
 List all articles with links and meta
 
 GET api/articles
