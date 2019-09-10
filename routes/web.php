@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+// Single Article
+Route::get('/vue', function(){
+    return view('vue');
+});
