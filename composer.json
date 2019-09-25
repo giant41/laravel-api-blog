@@ -1,10 +1,11 @@
 {
-    "name": "laravel/laravel",
+    "name": "giant41/Laravel-API-Blog",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Simple Blog CRUD with Laravel and Vuejs.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "vuejs"
     ],
     "license": "MIT",
     "require": {
