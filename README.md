@@ -8,6 +8,8 @@ laravel_api_blog
 
 # Install Dependencies
 composer install
+composer create-project giant41/laravel-api-blog
+cd laravel-api-blog
 
 # Run Migrations
 php artisan migrate
