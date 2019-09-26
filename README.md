@@ -1,4 +1,4 @@
-## Laravel + VueJs API CRUD 
+# Laravel + VueJs API CRUD 
 <p>Simple API for Blog Post (CRUD) with Laravel 6.0, uses the API resources as backend and vue.js as front end. </p>
 
 Quick Start
