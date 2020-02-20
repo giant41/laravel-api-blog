@@ -11,7 +11,7 @@ laravel_api_blog
 - cd laravel-api-blog
 
 ## Run Migrations
-php artisan migrate
+`php artisan migrate`
 
 ## Import Articles
 php artisan db:seed
